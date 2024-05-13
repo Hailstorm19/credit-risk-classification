@@ -7,3 +7,6 @@ The purpose of this analysis is to split the data into training and testing data
 
 ## Summary
 The Logistic Regression Model was quite effective in finding healthy and high-risk loans. It was slightly worse at identifying '1' over 0, and the '1' being the high-risk loan would be the data you want to identify. Overall, I would recommend this model.
+
+## How to use Repo.
+Inside the Credit_Risk folder there is a notebook called 'credit_risk_classification.ipynb' that will access the csv in the Resources folder and perform the analysis.
